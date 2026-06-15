@@ -75,5 +75,3 @@ mvn spring-boot:run
 ```
 
 ---
-
-⭐ Feel free to fork, explore, and contribute to this project.
