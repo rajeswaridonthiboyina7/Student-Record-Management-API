@@ -2,7 +2,7 @@
 Student Record Management API is a Spring Boot-based RESTful application designed to manage student records efficiently. The project serves as a foundation for handling student information through a structured API architecture using Spring Boot and Maven.
 The application demonstrates the implementation of backend development concepts such as REST APIs, project organization, dependency management, and database integration.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ The application demonstrates the implementation of backend development concepts 
 * Database connectivity support
 * Scalable and maintainable project structure
 
----
+
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ The application demonstrates the implementation of backend development concepts 
 * H2 Database
 * Maven
 
----
+
 
 ## Project Structure
 
@@ -48,7 +48,7 @@ student-record-management-api/
 │               └── StudentApiApplicationTests.java
 ```
 
----
+
 
 ## Prerequisites
 * Java 21 or later
@@ -74,4 +74,4 @@ cd student-record-management-api
 mvn spring-boot:run
 ```
 
----
+
